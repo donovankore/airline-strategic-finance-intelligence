@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-11-16T17:12:48.836454+00:00",
+  "annual_rows": 28,
+  "expected_annual_rows": 28,
+  "duplicate_ticker_year": 0,
+  "missing_revenue": 0,
+  "missing_operating_income": 0,
+  "invalid_load_factor": 0,
+  "monthly_rows": 336,
+  "fare_2025_excluded": true,
+  "fare_exclusion_reason": "A coverage break appears in reported market-passenger counts beginning in 2025 Q3; fare analysis is limited to 2019-2024 pending source review."
+}

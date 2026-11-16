@@ -1,0 +1,7 @@
+work/
+data/raw/
+*.db-journal
+.DS_Store
+__pycache__/
+*.pyc
+
